@@ -1,0 +1,5 @@
+##プロジェクト作成
+$ npx create-react-app --template typescript study-ts-2
+
+##axiosインストール
+$ npm install axios
